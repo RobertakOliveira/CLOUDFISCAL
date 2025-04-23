@@ -1,0 +1,5 @@
+{
+  "httpMethod": "POST",
+  "path": "/api/v1/invoice",
+  "body": "{ \"message\": \"Teste de requisição\" }"
+}
