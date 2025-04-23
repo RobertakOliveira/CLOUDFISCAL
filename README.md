@@ -428,7 +428,7 @@ Para o desenvolvimento do CloudFiscal, adotamos uma abordagem ágil com as segui
         <br>
         <strong>Amanda Ximenes</strong>
         <br>
-        <em>Implementação do Textract e processamento de dados com NLTK, página web e README.</em>
+        <em>Implementação do Textract e processamento de dados com NLTK.</em>
         <br>
         <a href="https://github.com/AmandaCampoos" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -442,7 +442,7 @@ Para o desenvolvimento do CloudFiscal, adotamos uma abordagem ágil com as segui
         <br>
         <strong>Bernardo Alonso</strong>
         <br>
-        <em>Desenvolvimento e integração do modelo LLM, página web e README.</em>
+        <em>Desenvolvimento e integração do modelo LLM, página web.</em>
         <br>
         <a href="https://github.com/Bernardo-rar" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
